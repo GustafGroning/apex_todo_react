@@ -1,5 +1,13 @@
 .task-container {
     background-color: red;
     overflow: scroll;
-    height: 76vw;
+    height: 10vw;
+    border: solid black 10px;
+    border-radius: 10px;
+    
+}
+
+.Task {
+    background-color: red;
+    
 }

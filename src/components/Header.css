@@ -1,5 +1,10 @@
 .header-container {
-    height: 12vw;
+    height: 20vw;
     width: 100vw;
     background-color: yellow;
+}
+
+.Header {
+    text-align: center;
+    font-size: 5px;
 }

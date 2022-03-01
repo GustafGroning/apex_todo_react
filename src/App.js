@@ -15,6 +15,12 @@ function App() {
       <Task> </Task>
       <Task> </Task>
       <Task> </Task>
+      <Task> </Task>
+      <Task> </Task>
+      <Task> </Task>
+      <Task> </Task>
+      <Task> </Task>
+      <Task> </Task>
       </div>
       <div className="footer-container"> 
       <Footer/>
