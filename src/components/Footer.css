@@ -2,5 +2,6 @@
     background-color: red;
     width: 100vw;
     bottom: 0;
-    height: 30vh;
+    height: 20vh;
+    border-top: 1vw solid black;
 }

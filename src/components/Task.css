@@ -1,13 +1,35 @@
-.task-container {
-    background-color: red;
-    overflow: scroll;
-    height: 50vh;
-    border: solid black 10px;
+.task-item {
+    display: flex;
+    justify-content: space-between;
+    height: 10vh;
+    border: solid black 1vw;
     border-radius: 10px;
+    margin-top: 2vh;
+    background-color: red;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 2px 5px #888888;
+
+}
+
+.task-container {
+    background-color: beige;
+    overflow: scroll;
+    height: 70vh;
+   
+    width: 85vw;
+    padding-left: 9vw;
+    padding-right: 9vw;
     
 }
 
-.Task {
-    background-color: red;
-    
+.task-priority {
+    align-items: flex-end;
+    font-size: 2,5rem;
 }
+
+.task-duration {
+    align-items: flex-start;
+}
+
+
